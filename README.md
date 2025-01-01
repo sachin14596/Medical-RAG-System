@@ -30,3 +30,11 @@ The system works as follows:
   - Retriever: all-mpnet-base-v2, Bio_ClinicalBERT
   - Generator: gemma-2-2b, Medical-Llama3-8B
 
+- **Evaluation**:
+  - Retriever: Precision@k, Recall@k, F1-score
+  - Generator: BLEU, and ROUGE scores
+
+## Result
+![Graph1](https://github.com/user-attachments/assets/b1402797-9664-4b0c-b4bc-b6823f41be47)
+
+![Graph2](https://github.com/user-attachments/assets/c7bc81c1-3211-4699-8f30-f19bc7ab6c33)
